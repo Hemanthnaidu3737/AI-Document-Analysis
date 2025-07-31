@@ -1,0 +1,4 @@
+{
+  "name": "AI Document Analysis Hub",
+  "description": "An application to analyze text documents, generate summaries, and answer questions about the content using Gemini."
+}
